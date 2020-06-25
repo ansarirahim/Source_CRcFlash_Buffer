@@ -1,1 +1,1 @@
- arm-linux-gnueabihf-g++ main.cpp SimpleGPI_SPI.cpp -o main
+ arm-linux-gnueabihf-g++ main.cpp  -o main
